@@ -1,5 +1,5 @@
 # Burger Barn
-This is a Node.js application developed with Handlebars.js and MySQL to simulate the s
+This is a Node.js application developed with Handlebars.js and MySQL to simulate a burger restaurant's current orders.
 
 ## Getting Started
 This app is hosted on Heroku, so it can be accessed at: https://wkruger-burger.herokuapp.com/. If you want to run it locally, you will need Node.js and the project's associated packages.
